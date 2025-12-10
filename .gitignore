@@ -1,0 +1,42 @@
+# =======================
+# C++ Practice Repository
+# =======================
+
+# Compiled binaries
+*.out
+*.o
+*.obj
+*.exe
+
+# Static/Shared libraries (rare for practice but safe to ignore)
+*.a
+*.so
+*.dll
+*.dylib
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings (only ignore workspace-specific)
+.vscode/
+*.code-workspace
+
+# Build folders (if you accidentally create)
+build/
+bin/
+dist/
+
+# Cache / logs / temp
+*.log
+*.tmp
+*~
+.cache/
+
+# Language servers (optional)
+.clangd/
+compile_commands.json
+
+# Backup files
+*.bak
