@@ -16,33 +16,6 @@ This repo is meant for:
 
 ---
 
-## 🧠 Topics Covered
-
-I will keep updating this repository with new concepts as I learn them. Some of the planned/covered topics include:
-
-- Basics (variables, loops, functions)
-- Arrays & Strings
-- Pointers & References
-- Dynamic Memory (`new` / `delete`)
-- Stack vs Heap
-- Recursion
-- Object-Oriented Programming
-  - Classes & Objects
-  - Constructors & Destructors
-  - Inheritance
-  - Polymorphism
-  - Encapsulation
-- Standard Template Library (STL)
-  - Vectors
-  - Maps
-  - Sets
-  - Algorithms
-- File Handling
-- Error Handling
-- C++17/20 features (optional)
-
----
-
 ## 💻 Machine I have and 🛠️ Other Requirements
 
 - macOS (tested on MacBook Air M4, 16GB RAM)
